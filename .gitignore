@@ -4,6 +4,10 @@ node_modules
 /public/build
 .env
 
+.env.*
+.env.development
+.env.production
+
 /cypress/screenshots
 /cypress/videos
 /prisma/data.db
